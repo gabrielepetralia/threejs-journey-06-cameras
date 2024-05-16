@@ -142,6 +142,9 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+# Ignore package-lock.json
+package-lock.json
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
